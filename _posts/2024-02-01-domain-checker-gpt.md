@@ -5,8 +5,6 @@ categories: [GPT,Utility]
 excerpt: The Domain Checker GPT helps users quickly check domains for their availability.
 ---
 
-## Domain Checker GPT
-
 The [Domain Checker GPT](https://chat.openai.com/g/g-mZBpjMakc-domain-checker) helps users quickly check domains for their availability. Give it a try!
 
 ### Features:

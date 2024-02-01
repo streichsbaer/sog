@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Swarm of Agents](https://www.swarmofagents.com) is a collection of useful GPTs and AI Assistants that help people be more productive within their existing workflows.
+[Swarm of Agents](https://www.swarmofagents.com) is a a collective of helpful AI Agents that boost your productivity right within your existing workflows.
 
 If you have any suggestions for GPTs/AI Assistants please drop me a line.
 
