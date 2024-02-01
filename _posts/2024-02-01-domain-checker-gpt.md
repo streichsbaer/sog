@@ -2,9 +2,21 @@
 layout: post
 title:  Domain Checker GPT
 categories: [GPT,Utility]
-excerpt: This is the first in a series of utility GPTS. It helps users quickly check a bunch of domains for their availability.
+excerpt: The Domain Checker GPT helps users quickly check domains for their availability.
 ---
 
-This is the first in a series of utility GPTS. It helps users quickly check a bunch of domains for their availability.
+## Domain Checker GPT
 
-More information will be shown here shortly.
+The Domain Checker GPT helps users quickly check domains for their availability.
+- Try it out here: https://chat.openai.com/g/g-mZBpjMakc-domain-checker
+
+### Features:
+
+- Ask for a given domain to be checked.
+- Ask for mutliple domain to be checked.
+- Talk to Domain Checker to come up with relevant top level domains for you to check domains against.
+- Tell it a name or multiple names and it will automatically check these based on the context of the conversation.
+
+### Coming Soon
+
+More information and tutorials.
